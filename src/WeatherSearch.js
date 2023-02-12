@@ -49,6 +49,7 @@ export default function WeatherSearch() {
     <div>
       {form}
       {message}
+      <p><a href="https://github.com/SvitlanaUcraniana/React-Week-4">Open-source code</a>, by Svitlana Ivanishyna</p>
     </div>
   );
 }
