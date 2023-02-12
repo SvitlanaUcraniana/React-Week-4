@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import WeatherSearch from "./WeatherSearch";
 
 import './App.css';
